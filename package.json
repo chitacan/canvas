@@ -1,0 +1,35 @@
+{
+  "name": "now-examples-canvas",
+  "version": "1.0.0",
+  "description": "Example Now deployment using `node-canvas`",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/now-examples/canvas.git"
+  },
+  "keywords": [
+    "zeit",
+    "now",
+    "deploy",
+    "example",
+    "node",
+    "canvas",
+    "cairo",
+    "server"
+  ],
+  "author": "Nathan Rajlich <nate@zeit.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/now-examples/canvas/issues"
+  },
+  "homepage": "https://github.com/now-examples/canvas#readme",
+  "engines": {
+    "ace": "beta"
+  },
+  "dependencies": {
+    "canvas": "1.6.2"
+  }
+}
