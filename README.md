@@ -15,7 +15,7 @@ $ cd canvas
 $ now
 ```
 
-> Example: `wss://now-examples-ws-nddexmvyok.now.sh`
+> Example: `https://now-examples-canvas.now.sh`
 
 ## License
 
