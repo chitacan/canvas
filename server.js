@@ -4,7 +4,7 @@
 const http = require('http')
 const Canvas = require('canvas')
 
-http.createServer((req, res) => {
+http.createServer(function (req, res) {
   const canvas = new Canvas(320, 320)
   const ctx = canvas.getContext('2d')
   clock(ctx)
