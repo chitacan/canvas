@@ -28,5 +28,8 @@
   "homepage": "https://github.com/now-examples/canvas#readme",
   "dependencies": {
     "canvas": "^1.6.5"
+  },
+  "now": {
+    "alias": "now-examples-canvas.now.sh"
   }
 }
