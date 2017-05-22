@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/now-examples/canvas#readme",
   "dependencies": {
-    "canvas": "1.6.2"
+    "canvas": "^1.6.5"
   }
 }
